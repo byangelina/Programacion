@@ -1,0 +1,16 @@
+Dato ñoño:
+
+"La paradoja del cumpleaños es un problema de probabilidad que establece un resultado que va en contra
+de la intuición ¿cuántas personas se necesitan en un grupo para tener 50% probabilidades que una pareja
+comparta día de cumple? Principalmente en la seguridad de las funciones hash. 
+
+El principio se utiliza para predecir y explotar la probabilidad de encontrar colisiones, un tipo de
+vulnerabilidad en los algoritmos criptográficos. solo 23 personas, existe una probabilidad superior
+al 50% de que al menos dos de ellas compartan la misma fecha de cumpleaños.
+
+Implicación directa con la criptografia: principalmente en la seguridad de las funciones hash.
+El principio se utiliza para predecir y explotar la probabilidad de encontrar colisiones, un tipo
+de vulnerabilidad en los algoritmos criptográficos.".
+
+El "Ataque de Cumpleaños" (Birthday Attack)
+- Ciberseguridad.
